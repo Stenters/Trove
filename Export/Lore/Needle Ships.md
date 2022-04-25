@@ -1,2 +1,2 @@
 * Military ships
-* Not *strictly* associated with [Factions/Kargad](../Factions/Kargad.md)
+* Not *strictly* associated with [Factions/Kargad](../Factions/Kargad)

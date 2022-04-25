@@ -15,43 +15,43 @@
 
 ### PCs
 
-* [Captain Cilver](../Characters/Captain%20Cilver.md) and [Sallhador](../Characters/Sallhador.md)
-* [Rango](../Characters/Rango.md)
-* [Kinu](../Characters/Kinu.md)
-* [Valor](../Characters/Valor.md)
+* [Captain Cilver](../Characters/Captain%20Cilver) and [Sallhador](../Characters/Sallhador)
+* [Rango](../Characters/Rango)
+* [Kinu](../Characters/Kinu)
+* [Valor](../Characters/Valor)
 
 ### NPCs
 
-* [Chimaaro](../Characters/Chimaaro.md)
-* [Closh](../Characters/Closh.md)
-* [Cricket](../Characters/Cricket.md)
-* [Glib](../Characters/Glib.md)
-* [Captain Short Jhim Gold](../Characters/Captain%20Short%20Jhim%20Gold.md)
+* [Chimaaro](../Characters/Chimaaro)
+* [Closh](../Characters/Closh)
+* [Cricket](../Characters/Cricket)
+* [Glib](../Characters/Glib)
+* [Captain Short Jhim Gold](../Characters/Captain%20Short%20Jhim%20Gold)
 
 ## Places
 
-* [Terra Rusk](../Islands/Terra%20Rusk.md)
-* [Royal Blue](../Cities/Royal%20Blue.md)
+* [Terra Rusk](../Islands/Terra%20Rusk)
+* [Royal Blue](../Cities/Royal%20Blue)
 
 ## Things
 
-* 5 ships: [Military vessle](../Ships/Military%20vessle.md), [Fancy ship](../Ships/Fancy%20ship.md), [Jellyfish craft](../Ships/Jellyfish%20craft.md), [Old ship](../Ships/Old%20ship.md), [Sky turtle barge](../Ships/Sky%20turtle%20barge.md)
+* 5 ships: [Military vessle](../Ships/Military%20vessle), [Fancy ship](../Ships/Fancy%20ship), [Jellyfish craft](../Ships/Jellyfish%20craft), [Old ship](../Ships/Old%20ship), [Sky turtle barge](../Ships/Sky%20turtle%20barge)
 
 ## Significant discoveries
 
-* The [Needle Ships](../Lore/Needle%20Ships.md) are becoming more active
-* The [Fancy ship](../Ships/Fancy%20ship.md) is somehow associated with the [Needle Ships](../Lore/Needle%20Ships.md)
+* The [Needle Ships](../Lore/Needle%20Ships) are becoming more active
+* The [Fancy ship](../Ships/Fancy%20ship) is somehow associated with the [Needle Ships](../Lore/Needle%20Ships)
 
 ## Synopsis
 
-* The party began on the docks of [Royal Blue](../Cities/Royal%20Blue.md), searching for a ship to commandeer after their recent losses of transportation
-* On their way over, [Captain Cilver](../Characters/Captain%20Cilver.md) and [Sallhador](../Characters/Sallhador.md) were able to recruit [Chimaaro](../Characters/Chimaaro.md), [Closh](../Characters/Closh.md), and \[\[Cricket\] with the help of [Rango](../Characters/Rango.md)
-* [Valor](../Characters/Valor.md) was able to pick up [Kinu](../Characters/Kinu.md) with the promise of quick passage off [Terra Rusk](../Islands/Terra%20Rusk.md)
+* The party began on the docks of [Royal Blue](../Cities/Royal%20Blue), searching for a ship to commandeer after their recent losses of transportation
+* On their way over, [Captain Cilver](../Characters/Captain%20Cilver) and [Sallhador](../Characters/Sallhador) were able to recruit [Chimaaro](../Characters/Chimaaro), [Closh](../Characters/Closh), and \[\[Cricket\] with the help of [Rango](../Characters/Rango)
+* [Valor](../Characters/Valor) was able to pick up [Kinu](../Characters/Kinu) with the promise of quick passage off [Terra Rusk](../Islands/Terra%20Rusk)
 * At the dockside, Cilver broke the news to everyone that the crew didn't *exactly* have a ship, but that lapse would be corrected in short order
 * After convincing everyone that keeping in the crew was the best course of action, Cilver began sizing up the potential options
-* Five ships were currently in dock: [Military vessle](../Ships/Military%20vessle.md), [Fancy ship](../Ships/Fancy%20ship.md), [Jellyfish craft](../Ships/Jellyfish%20craft.md), [Old ship](../Ships/Old%20ship.md), and [Sky turtle barge](../Ships/Sky%20turtle%20barge.md)
+* Five ships were currently in dock: [Military vessle](../Ships/Military%20vessle), [Fancy ship](../Ships/Fancy%20ship), [Jellyfish craft](../Ships/Jellyfish%20craft), [Old ship](../Ships/Old%20ship), and [Sky turtle barge](../Ships/Sky%20turtle%20barge)
 * After discussing for some time, Cilver sent Valor to investigate the Jellyfish craft
-* Valor, using her excilent skills to blend into the crown, made her way over to the craft, where she was met with [Glib](../Characters/Glib.md), one of the Jellyfish's crew
+* Valor, using her excilent skills to blend into the crown, made her way over to the craft, where she was met with [Glib](../Characters/Glib), one of the Jellyfish's crew
 * Glib, noticing that Rango was aggressively following Valor, invited her on in an attempt to rescue her from a percived stalker
 * Glib uses some sort of code to gain entrance to the ship, although no guards are visible
 * Once aboard, Valor learned from Glib that there were 3 other crew members
@@ -63,21 +63,21 @@
 * Kinu had gone over to investigate the turtle barge more closely, and showed Rango how to properly pet them
   <br>
 * Valor and Glib departed with , and the unnamed orc decided to tag along
-* They found a tavern named [The Mushroom Bar](../Places/The%20Mushroom%20Bar.md)
+* They found a tavern named [The Mushroom Bar](../Places/The%20Mushroom%20Bar)
 * A tired, bored bar tender greeted them, and shut down any hopes of finding drugs, clarifying all he served was mushroom suffle
 * Valor, at wits end, orders two and attempts to drug Glib's food
 * The unnamed orc picks up on this and, throwing a stone through the window as a distraction, pours some sort of powedr in Glib's beer
-* After drugging the grung, Valor and Sallhador interrogate him, learning the password to the jellyfish ship - a phrase in primordial, as well as details about the captain, [Captain Short Jhim Gold](../Characters/Captain%20Short%20Jhim%20Gold.md)
+* After drugging the grung, Valor and Sallhador interrogate him, learning the password to the jellyfish ship - a phrase in primordial, as well as details about the captain, [Captain Short Jhim Gold](../Characters/Captain%20Short%20Jhim%20Gold)
 * They learn that the captain in intrigued with arcane secrets, especially: "Weird magic shit", old stories, and dragons
   <br>
 * While Valor and co are on this escapade, Cilver has been performing recconisance
 * After studying the Jellyfish craft, Cilver determined there were at least 5 protective runes on the ship, and no obvious mechanisms for flying it other than magic
 * Investigating the old, rickety ship, Cilver notices an older officer running a fresh faced crew through basic routines, which they are failing spectacularly at
-* Moving on to the military vessle, Cilver learns that these "Needle Ships" have been seen much more frequently, and although not explicitly associated with [Kargad](../Factions/Kargad.md), many assume they are emmisaries from there
+* Moving on to the military vessle, Cilver learns that these "Needle Ships" have been seen much more frequently, and although not explicitly associated with [Kargad](../Factions/Kargad), many assume they are emmisaries from there
   <br>
 * Eventually, the party regroups at the dockside bar
 * Cilver convinces Glib to sign on with them, at which point Sallhador produces a contract that Glib signs
-* While initially everyone is set on stealing the Jellyfish craft, [Chimaaro](../Characters/Chimaaro.md) mentions that there is a square dancing competition on the Fancy craft, which may provide an in to steal that ship
+* While initially everyone is set on stealing the Jellyfish craft, [Chimaaro](../Characters/Chimaaro) mentions that there is a square dancing competition on the Fancy craft, which may provide an in to steal that ship
 * Cilver discusses with Valor, Closh, and the unnamed orc about raiding the Jellyfish craft while the competition is ongoing, which the orc shoots down
 * The party as a whole decides they have the means to pilot the fancy ship, and decide to wait till the competition to steal any ship
 * Rango, promised to be the pilot of the ship, excitedly demands beer from the barkeep, terrifying the poor man into giving in for free
@@ -93,8 +93,8 @@
 * Kinu and Valor decide to take the time to investigate the fancy ship
 * Trying to get below decks, they notice everything is tightly guarded
 * Kinu decides to talk to one of the officers on the ship
-* They learn he is interning on this ship under [Captain Johnson](../Characters/Captain%20Johnson.md)
-* When asking about the square dance competition, learn that it is holiday back where the ship came from, [Tinkertock](../Cities/Tinkertock.md)
+* They learn he is interning on this ship under [Captain Johnson](../Characters/Captain%20Johnson)
+* When asking about the square dance competition, learn that it is holiday back where the ship came from, [Tinkertock](../Cities/Tinkertock)
 * There is apparently a significant platinum reward for the winner
 * While talking to the officer, Valor and Kinu notice a flash from the forward office
 * Kinu recognizes a silhouette in black needle armor, similar to the military ship
