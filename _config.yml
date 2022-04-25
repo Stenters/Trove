@@ -1,2 +1,2 @@
-theme: jekyll-theme-tactile
-# remote_theme: cotes2020/jekyll-theme-chirpy
+# theme: jekyll-theme-tactile
+remote_theme: "cotes2020/jekyll-theme-chirpy"
