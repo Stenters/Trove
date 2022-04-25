@@ -1,1 +1,1 @@
-Start at [[Export/index]]
+Start at [index](Export/index.md)
