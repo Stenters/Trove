@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Export/Ships/Military vessle.md",
+            "file": "Export/Session notes/Session 1.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Export/Ships/Military vessle.md",
+                "file": "Export/Session notes/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "cd6f4b9977d1c5e7",
   "lastOpenFiles": [
+    "Export/Session notes/Session 1.md",
     "Export/Ships/Military vessle.md",
     "Export/Ships/Jellyfish craft.md",
     "Export/Ships/Fancy ship.md",
@@ -96,7 +97,6 @@
     "index.md",
     "Session notes/Session 1.md",
     "Characters/Captain Cilver.md",
-    "Characters/Rango.md",
-    "Characters/Captain Johnson.md"
+    "Characters/Rango.md"
   ]
 }

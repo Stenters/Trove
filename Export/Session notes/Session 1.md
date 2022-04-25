@@ -1,13 +1,13 @@
 # Table of Contents
 
-* [People](Session%201)people)
-  * [PCs](Session%201)people-pcs)
-  * [NPCs](Session%201)people-npcs)
-* [Places](Session%201)places)
-* [Things](Session%201)things)
-* [Significant discoveries](Session%201)significant-discoveries)
-* [Synopsis](Session%201)synopsis)
-* [Raw notes](Session%201)raw-notes)
+* [People](Session%201#people)
+  * [PCs](Session%201#people-pcs)
+  * [NPCs](Session%201#people-npcs)
+* [Places](Session%201#places)
+* [Things](Session%201#things)
+* [Significant discoveries](Session%201#significant-discoveries)
+* [Synopsis](Session%201#synopsis)
+* [Raw notes](Session%201#raw-notes)
 
 # Formatted notes
 
