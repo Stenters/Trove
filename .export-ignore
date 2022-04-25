@@ -1,2 +1,4 @@
 Export
 index.md
+*.sh
+_config.yml

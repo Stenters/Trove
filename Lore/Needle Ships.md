@@ -1,2 +1,2 @@
 * Military ships
-* Not *strictly* associated with [[Factions/Kargad]]
+* Not *strictly* associated with [[Kargad]]

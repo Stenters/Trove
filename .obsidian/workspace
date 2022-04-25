@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Session notes/Session 1.md",
+            "file": "Export/Ships/Military vessle.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session notes/Session 1.md",
+                "file": "Export/Ships/Military vessle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "cd6f4b9977d1c5e7",
   "lastOpenFiles": [
-    "Session notes/Session 1.md",
+    "Export/Ships/Military vessle.md",
+    "Export/Ships/Jellyfish craft.md",
+    "Export/Ships/Fancy ship.md",
+    "Lore/Needle Ships.md",
+    "Ships/Military vessle.md",
     "index.md",
+    "Session notes/Session 1.md",
     "Characters/Captain Cilver.md",
     "Characters/Rango.md",
-    "Characters/Captain Johnson.md",
-    "Cities/Tinkertock.md",
-    "Characters/Sallhador.md",
-    "Characters/Captain Short Jhim Gold.md",
-    "Places/The Mushroom Bar.md",
-    "Ships/Military vessle.md"
+    "Characters/Captain Johnson.md"
   ]
 }
