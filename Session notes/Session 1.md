@@ -65,7 +65,7 @@
 * Kinu had gone over to investigate the turtle barge more closely, and showed Rango how to properly pet them
   <br>
 * Valor and Glib departed with , and the unnamed orc decided to tag along
-* They found a tavern named [The Mushroom Bar](../Places/The%20Mushroom%20Bar)
+* They found a tavern named [ The Mushroom Bar](../Cities/Royal%20Blue#the-mushroom-bar)
 * A tired, bored bar tender greeted them, and shut down any hopes of finding drugs, clarifying all he served was mushroom suffle
 * Valor, at wits end, orders two and attempts to drug Glib's food
 * The unnamed orc picks up on this and, throwing a stone through the window as a distraction, pours some sort of powedr in Glib's beer
