@@ -1,4 +1,6 @@
-# Table of Contents
+# Session 1
+* 23 April, 2022
+## Table of Contents
 
 * [People](Session%201#people)
   * [PCs](Session%201#people-pcs)
@@ -9,18 +11,18 @@
 * [Synopsis](Session%201#synopsis)
 * [Raw notes](Session%201#raw-notes)
 
-# Formatted notes
+## Formatted notes
 
-## People
+### People
 
-### PCs
+#### PCs
 
 * [Captain Cilver](../Characters/Captain%20Cilver) and [Sallhador](../Characters/Sallhador)
 * [Rango](../Characters/Rango)
 * [Kinu](../Characters/Kinu)
 * [Valor](../Characters/Valor)
 
-### NPCs
+#### NPCs
 
 * [Chimaaro](../Characters/Chimaaro)
 * [Closh](../Characters/Closh)
@@ -28,21 +30,21 @@
 * [Glib](../Characters/Glib)
 * [Captain Short Jhim Gold](../Characters/Captain%20Short%20Jhim%20Gold)
 
-## Places
+### Places
 
 * [Terra Rusk](../Islands/Terra%20Rusk)
 * [Royal Blue](../Cities/Royal%20Blue)
 
-## Things
+### Things
 
 * 5 ships: [Military vessle](../Ships/Military%20vessle), [Fancy ship](../Ships/Fancy%20ship), [Jellyfish craft](../Ships/Jellyfish%20craft), [Old ship](../Ships/Old%20ship), [Sky turtle barge](../Ships/Sky%20turtle%20barge)
 
-## Significant discoveries
+### Significant discoveries
 
 * The [Needle Ships](../Lore/Needle%20Ships) are becoming more active
 * The [Fancy ship](../Ships/Fancy%20ship) is somehow associated with the [Needle Ships](../Lore/Needle%20Ships)
 
-## Synopsis
+### Synopsis
 
 * The party began on the docks of [Royal Blue](../Cities/Royal%20Blue), searching for a ship to commandeer after their recent losses of transportation
 * On their way over, [Captain Cilver](../Characters/Captain%20Cilver) and [Sallhador](../Characters/Sallhador) were able to recruit [Chimaaro](../Characters/Chimaaro), [Closh](../Characters/Closh), and \[\[Cricket\] with the help of [Rango](../Characters/Rango)
@@ -110,7 +112,7 @@
 * Back on shore, Kinu and Chim rush to the sky turtle barge and break it free from its flimsy padlock, and begin chasing the ship carrying off the rest of their crew
 * Glib, who spent most of this time sleeping, is quite disoriented, but at the last minute jumps on the barge with Kinu and Chim
 
-# Raw notes
+## Raw notes
 
 * Ork deck swabber - musty smell as if in attic for several deckades
 * Ships avaliable

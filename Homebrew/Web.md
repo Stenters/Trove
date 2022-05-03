@@ -1,4 +1,5 @@
-```mermaid
+
+````mermaid
 graph LR
 
 a(Cilver)
@@ -44,8 +45,8 @@ c-->|suspicion / selfish interest| aa
 
 d-->|drinking buddies| ba
 d-->|it's complicated| bb
-```
+````
 
 Scratch that, use this:
 
-![[Dre Web.drawio]]
+[Dre Web.drawio](../Resources/Dre%20Web.drawio)

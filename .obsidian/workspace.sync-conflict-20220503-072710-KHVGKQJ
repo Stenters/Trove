@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "cd6f4b9977d1c5e7",
+        "id": "8fac46155a9e56ac",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Session notes/Session 2.md",
+            "file": "Export/Session notes/Session 2.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "ee27299f8eeeba98"
+      },
+      {
+        "id": "e47a7e7f84416b92",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Export/Session notes/Session 2.md",
+            "mode": "preview"
+          }
+        },
+        "group": "ee27299f8eeeba98"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session notes/Session 2.md",
+                "file": "Export/Session notes/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cd6f4b9977d1c5e7",
+  "active": "e47a7e7f84416b92",
   "lastOpenFiles": [
-    "Session notes/Session 2.md",
-    "Characters/Captain Short Jhim Gold.md",
-    "Ships/Jellyfish craft.md",
-    "Characters/Closh.md",
-    "Session notes/Session 1.md",
-    "Session notes/Notes Template.md",
+    "Export/Session notes/Session 2.md",
     "Export/Session notes/Session 1.md",
+    "Export/Session notes/Notes Template.md",
     "Export/Ships/Military vessle.md",
     "Export/Ships/Jellyfish craft.md",
-    "Export/Ships/Fancy ship.md"
+    "Export/Ships/Fancy ship.md",
+    "Lore/Needle Ships.md",
+    "Ships/Military vessle.md",
+    "index.md",
+    "Session notes/Session 1.md"
   ]
 }

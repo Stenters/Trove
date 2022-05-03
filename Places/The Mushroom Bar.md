@@ -1,1 +1,1 @@
-* in [[Royal Blue]]
+* in [Royal Blue](../Cities/Royal%20Blue)
