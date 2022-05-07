@@ -1,2 +1,2 @@
-Doctor?
+Doctor
 Triton
